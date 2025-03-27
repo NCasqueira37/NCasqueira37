@@ -20,8 +20,8 @@ I'm a passionate programmer who loves learning new languages and concepts. Wheth
 ## 📌 Pinned Projects  
 Here are some of my favorite projects:  
 
-- **[Project Name](https://github.com/yourusername/project-repo)** – Brief description of what it does.  
-- **[Another Project](https://github.com/yourusername/another-repo)** – Short summary of its purpose.  
+- **[C# Projects](https://github.com/NCasqueira37/Projects)** –   These are desktop applications I made with XAML for the frontend and C# for the backend.
+- **[SDL FarmGame, C++](https://github.com/NCasqueira37/CPPEngine_FarmGame)** – I made this project from scratch with SDL(SDL is used to create windows and handle input, graphics and audio). A simple farming game where you water plants and grow them.
 
 ---
 
@@ -31,7 +31,7 @@ Here are some of my favorite projects:
 ---
 
 ## 📫 Connect with Me  
-- GitHub: [yourusername](https://github.com/yourusername)  
+- GitHub: [NCasqueira37](https://github.com/NCasqueira37)  
 - Email: ncasqueira3@gmail.com  
 - LinkedIn: (https://www.linkedin.com/in/nicholas-casqueira-12b5472a6/)
 
