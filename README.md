@@ -33,7 +33,7 @@ Here are some of my favorite projects:
 ## 📫 Connect with Me  
 - GitHub: [yourusername](https://github.com/yourusername)  
 - Email: ncasqueira3@gmail.com  
-- LinkedIn: [Nicholas Casqueira]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nicholas-casqueira-12b5472a6/))  
+- LinkedIn: (https://www.linkedin.com/in/nicholas-casqueira-12b5472a6/)
 
 Looking forward to collaborating and sharing ideas! 🚀  
 
